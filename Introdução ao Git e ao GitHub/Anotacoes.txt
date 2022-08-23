@@ -1,0 +1,12 @@
+link para donwload do Git: https://git-scm.com/downloads
+O Git Bash é um termininal extendido para otimizar o uso do Git.
+
+Comandos
+ - Git Clone: É um comando para baixar o código-fonte existente de um repositório remoto
+
+ - Git Status: O comando nos dá todas as informações necessárias sobre a branch atual
+
+ - Git Commmit: Serve para salvar nossas alterações.Git commit é como definir um ponto de verificação no processo de dessemvolvimento.
+
+ - Git Push: Após fazer o commmit de suas atercações, a próxima coisa a fazer é enviar suas alterações ao servidor remoto. Git push faz o upload dos seus commits no repositório remoto.
+
